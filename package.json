@@ -37,7 +37,7 @@
     "query-string": "^4.3.4",
     "rapidapi-connect": "0.0.4",
     "redis": "^2.7.1",
-    "request": "^2.81.0",
+    "request": "^2.88.2",
     "simple-rate-limiter": "^0.2.3",
     "testcheck": "^1.0.0-rc.2"
   }
