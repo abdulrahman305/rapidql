@@ -29,7 +29,7 @@
     "mongodb": "^2.2.30",
     "mustache": "^2.2.1",
     "mysql": "^2.13.0",
-    "nearley": "^2.7.10",
+    "nearley": "^2.20.1",
     "nyc": "^15.0.0",
     "object-hash": "^1.2.0",
     "pegjs": "^0.10.0",
