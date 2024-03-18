@@ -24,7 +24,7 @@
     "commander": "^2.11.0",
     "csv": "^2.0.0",
     "dnscache": "^1.0.1",
-    "mocha": "^7.0.0",
+    "mocha": "^10.3.0",
     "mocha-testcheck": "^1.0.0-rc.0",
     "mongodb": "^2.2.30",
     "mustache": "^2.2.1",
@@ -36,7 +36,7 @@
     "pg": "^6.1.2",
     "query-string": "^4.3.4",
     "rapidapi-connect": "0.0.4",
-    "redis": "^2.7.1",
+    "redis": "^3.1.1",
     "request": "^2.88.2",
     "simple-rate-limiter": "^0.2.3",
     "testcheck": "^1.0.0-rc.2"
